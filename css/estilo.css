@@ -7,7 +7,7 @@
    4. #264653 (Gris oscuro - Texto general)
 ========================================= */
 
-/* --- 1. Estilos Globales --- */
+/*1. Estilos Globales */
 body {
   font-family: 'Arial', sans-serif;
   background-color: #FFF3E3;
@@ -16,7 +16,7 @@ body {
   padding: 0;
 }
 
-/* --- 2. Cabecera (Header) --- */
+/*2. Cabecera*/
 header {
   display: flex;
   justify-content: space-between;
@@ -31,7 +31,7 @@ header {
   display: block;
 }
 
-/* --- 3. Navegación (Nav) --- */
+/* 3. Navegación */
 .barra-navegacion {
   display: flex;
   gap: 15px;
@@ -51,7 +51,7 @@ header {
   color: #FFF3E3;
 }
 
-/* --- 4. Contenedor Principal y Columnas --- */
+/* 4. Contenedor Principal y Columnas */
 main {
   display: flex;
   gap: 20px;
@@ -74,7 +74,7 @@ section {
   border-radius: 8px;
 }
 
-/* --- 5. Elementos Internos (Imágenes, anuncios, galería) --- */
+/* 5. Elementos Internos */
 .imagen-articulo {
   width: 100%;
   max-width: 500px;
@@ -127,7 +127,7 @@ section {
   border-radius: 5px;
 }
 
-/* --- 6. Pie de Página (Footer) --- */
+/* 6. Pie de Página*/
 footer {
   text-align: center;
   padding: 20px;
